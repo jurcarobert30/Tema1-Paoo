@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ProiectTahograf.dir/main.cpp.o CMakeFiles/ProiectTahograf.dir/Appointment.cpp.o -o ProiectTahograf 
